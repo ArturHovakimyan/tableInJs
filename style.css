@@ -1,0 +1,23 @@
+#myDiv {
+    background-color: rgb(237, 238, 238);
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+}
+#table {
+	width: 350px;
+}
+
+.mySelect {
+	width: 150px;
+	border: none;
+	outline: none;
+}
+.myInput {
+	width: 150px;
+	border: none;
+	outline: none;
+}
+#minBody td {
+	width: 150px;
+}
